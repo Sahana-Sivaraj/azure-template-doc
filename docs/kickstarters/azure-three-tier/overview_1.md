@@ -3,7 +3,7 @@ id: azure-three-tier-overview-1
 title: Overview
 ---
 
-# What we are going to develop
+# IaC Template for Building a Three-Tier App on Azure
 
 This is a kickstarter IaC tempalte for Azure that can be used as a starting point for you Azure Three Tier applicatiom. The tempalte contians a simple Todo application. You can easily get rid of the existing code as it is there just to show how the template works. 
 
