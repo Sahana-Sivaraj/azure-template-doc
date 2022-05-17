@@ -3,7 +3,7 @@ id: azure-three-tier-overview-1
 title: Overview
 ---
 
-# IaC Template for Building a Three-Tier App on Azure
+# Overview - Azure Three Tier IaC Kickstarter
 
 A kickstarter IaC template for Azure following the Three-Tier architecture design to jumpstart your app creation. 
 
@@ -17,6 +17,4 @@ The following quality-attributes were considered:
 
 The template is designed with modularity in mind, allowing flexibility to add/remove resources to cater to different requirements. 
 
-This repository is open to changes. If you have any feedback, suggestions and/or improvements, feel free to create a PR with your changes! 
-
-(Raqeeb, Kamal)
+This repository is open to changes. If you have any feedback, suggestions and/or improvements, feel free to create a PR with your changes!
