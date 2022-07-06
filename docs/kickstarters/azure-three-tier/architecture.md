@@ -8,6 +8,8 @@ title: Architecture
 ## Introduction
 Where can you use this template?
 
+![architecture](https://raw.githubusercontent.com/KamalRathnayake/architecture.99x.io/master/docs/kickstarters/azure-three-tier/architecture.JPG)
+
 [Diagram goes here]
 
 ## Deployment View
