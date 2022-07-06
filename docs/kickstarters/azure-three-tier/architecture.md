@@ -46,16 +46,15 @@ Here's the traffic flow and basic configuration of the architecture:
 5. Azure Bastion service is used for accessing the environment and the database securely. 
 
 
-Why did we use Azure AD B2C?
+**Why did we use Azure AD B2C?**
 
-Why did we use a Virtual Network/VNET integration?
+**Why did we use a Virtual Network/VNET integration?**
 
-Why did we use service endpoints?
+**Why did we use service endpoints?**
 [contrast with private endpoints]
 
-Why did we use Azure Bastion?
+**Why did we use Azure Bastion?**
 
 ## Development View
 Technologies used for developing
 ASP.NET MVC, 
-
